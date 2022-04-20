@@ -12,9 +12,9 @@
     <category term="学习" />
     <category term="进步" />
     <entry>
-        <id>http://zhangrui216.github.io/Redis%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E7%82%B9/</id>
+        <id>http://zhangrui216.github.io/computer-science/java/course-1/Redis%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E7%82%B9/</id>
         <title>Redis学习</title>
-        <link rel="alternate" href="http://zhangrui216.github.io/Redis%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
+        <link rel="alternate" href="http://zhangrui216.github.io/computer-science/java/course-1/Redis%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
         <content type="html">&lt;p&gt;&amp;lt;a name=&amp;quot;u0mTh&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;&lt;/p&gt;
 &lt;h1 id=&#34;redis基础知识&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#redis基础知识&#34;&gt;#&lt;/a&gt; redis 基础知识&lt;/h1&gt;
 &lt;h2 id=&#34;一什么是redis&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一什么是redis&#34;&gt;#&lt;/a&gt; 一。什么是 redis？&lt;/h2&gt;
